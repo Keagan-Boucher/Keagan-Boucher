@@ -1,6 +1,6 @@
 <!-- 1. HEADER & PROFILE IMAGE -->
 <p align="center">
-  <img src="https://github.com/KeaganCB-OW.png" width="140" style="border-radius:50%;" alt="Keagan Boucher avatar" />
+  <img src="https://github.com/keagan-boucher.png" width="140" style="border-radius:50%;" alt="Keagan Boucher avatar" />
 </p>
 
 <h1 align="center">⚡ Hey, I'm <span style="color:#00FFE1;">Keagan Boucher</span> ⚡</h1>
